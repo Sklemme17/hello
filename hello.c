@@ -8,6 +8,7 @@
 
 int main(int argc, char **argv) {
 
+  printf("Music Education\n");
   printf("Sam Klemme\n");
   return 0;
 }
